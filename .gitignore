@@ -1,0 +1,17 @@
+# Google OAuth credentials
+credentials.json
+token.json
+
+# Local database and generated data
+data/jobs.db
+data/jobs_review.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
